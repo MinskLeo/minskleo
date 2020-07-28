@@ -1,5 +1,3 @@
-### Hi there! I'm Andrei! 👋
-
 <p align="left">
   <img
       src="https://github.com/MinskLeo/minskleo/blob/master/Andrei%20Siuniakou%20Logo.png"
