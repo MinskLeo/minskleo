@@ -2,7 +2,6 @@
 
 <p align="left">
   <img
-      align="left"
       src="https://github.com/MinskLeo/minskleo/blob/master/Andrei%20Siuniakou%20Logo.png"
       height=150px
    />
