@@ -9,20 +9,22 @@
 </p>
 
 
-Links:
+**Contacts:**  
+[linkedin](https://www.linkedin.com/in/minskleo/)  
+siuniakoua@gmail.com
 
-I'm a JavaScript developer with 2.5 years of commercial experience in frontend field and about 2 additional years of non-commercial (includes Node JS). Mostly I worked with:
+I'm a **JavaScript developer** with 2.5 years of commercial experience in frontend field and about 2 additional years of non-commercial (includes Node JS). Mostly I worked with:
 - React
 - React Native
 - Node JS (non-commerical)
 
-Also I'm good at:
+**Also I'm good at:**
 - Optimizing React applications
 - Making flexible and reusable components
 - Separating logics in React applications
 - Making responsive UI in mobile applications (React Native)
 
-Other interesting info about me:
+**Other interesting info about me:**
 - 🔭 I’m currently working in HQSoftware in Minsk
 - 🌱 I’m currently learning how to create cool and performant Node JS applications
 - 💬 Ask me about React and React Native applications. Happy to help.
