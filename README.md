@@ -1,9 +1,9 @@
 ### Hi there! I'm Andrei! 👋
 
-<p align="center">
+<p align="left">
   <img
-      src="https://github.com/MinskLeo/minskleo/blob/master/rn-logo.png"
-      width=150px
+      align="left"
+      src="https://github.com/MinskLeo/minskleo/blob/master/Andrei%20Siuniakou%20Logo.png"
       height=150px
    />
 </p>
