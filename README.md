@@ -10,10 +10,10 @@
 [linkedin](https://www.linkedin.com/in/minskleo/)  
 siuniakoua@gmail.com
 
-I'm a **JavaScript developer** with 2.5 years of commercial experience in frontend field and about 2 additional years of non-commercial (includes Node JS). Mostly I worked with:
+I'm a **JavaScript developer** with 3 years of commercial experience in frontend field and about 2 additional years of non-commercial (includes Node JS). Mostly I worked with:
 - React
 - React Native
-- Node JS (non-commerical)
+- Node JS (non-commercial)
 
 **Also I'm good at:**
 - Optimizing React applications
