@@ -13,13 +13,15 @@ siuniakoua@gmail.com
 I'm a **JavaScript developer** with 3 years of commercial experience in frontend field and about 2 additional years of non-commercial (includes Node JS). Mostly I worked with:
 - React
 - React Native
-- Node JS (non-commercial)
+- Node JS scripting
+- Node JS Backend (non-commercial)
 
 **Also I'm good at:**
 - Optimizing React applications
 - Making flexible and reusable components
 - Separating logics in React applications
 - Making responsive UI in mobile applications (React Native)
+- Creating powerful and easily maintainable software solutions
 
 **Other interesting info about me:**
 - 🔭 I’m currently working in HQSoftware in Minsk
