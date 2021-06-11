@@ -16,6 +16,8 @@ I'm a **JavaScript developer** with 3 years of commercial experience in frontend
 - Node JS scripting
 - Node JS Backend (non-commercial)
 
+In my work I always try to create as much efficient and architecturally correct solutions as possible. I have a good understanding of OOP principles, main architectural design patterns and their implementation and correct use in web applications. Always thinking about performance and ease of maintenance.
+
 **Also I'm good at:**
 - Optimizing React applications
 - Making flexible and reusable components
