@@ -11,8 +11,6 @@
 [linkedin](https://www.linkedin.com/in/minskleo/)  
 siuniakoua@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minskleo&count_private=true&hide_title=true&hide_rank=true&show_icons=true&hide=stars,contribs)
-
 I'm a **JavaScript/TypeScript developer** with 4+ years of commercial experience in Frontend. Mostly I worked with:
 - React
 - React Native
