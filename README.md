@@ -27,7 +27,7 @@ In my work I always try to create as much efficient and architecturally correct 
 - Creating powerful and easily maintainable software solutions
 
 **Other interesting info about me:**
-- 🔭 I’m currently working in Warecorp in Minsk
+- 🔭 I’m currently working in Warecorp in Poland, Krakow
 - 🌱 I’m currently learning how to create cool and performant Node JS (Nest JS) applications
 - 💬 Ask me about React and React Native applications. Happy to help.
 - 📫 How to reach me: siuniakoua@gmail.com or [linkedin](https://www.linkedin.com/in/minskleo/)
