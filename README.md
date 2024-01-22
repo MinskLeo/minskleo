@@ -7,11 +7,13 @@
 
 
 
+See full CV on my personal website: [minskleo.dev](https://www.minskleo.dev)  
+
 **Contacts:**  
 [linkedin](https://www.linkedin.com/in/minskleo/)  
 siuniakoua@gmail.com
 
-I'm a **JavaScript/TypeScript developer** with 4+ years of commercial experience in Frontend. Mostly I worked with:
+I'm a **JavaScript/TypeScript developer** with 5+ years of commercial experience in Frontend. Mostly I worked with:
 - React
 - React Native
 - Node JS scripting
