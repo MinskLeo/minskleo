@@ -13,7 +13,7 @@ See full CV on my personal website: [minskleo.dev](https://www.minskleo.dev)
 [linkedin](https://www.linkedin.com/in/minskleo/)  
 siuniakoua@gmail.com
 
-I'm a **JavaScript/TypeScript developer** with 5+ years of commercial experience in Frontend. Mostly I worked with:
+I'm a **JavaScript/TypeScript developer** with 6+ years of commercial experience in Frontend. Mostly I worked with:
 - React
 - React Native
 - Node JS scripting
@@ -29,8 +29,7 @@ In my work I always try to create as much efficient and architecturally correct 
 - Creating powerful and easily maintainable software solutions
 
 **Other interesting info about me:**
-- 🔭 I’m currently working in Tinkoff in Belarus, Minsk
+- 🔭 I’m currently working in T-Bank (Tinkoff) in Belarus, Minsk
 - 🌱 I’m currently learning how to create cool and performant Node JS (Nest JS) applications
 - 💬 Ask me about React and React Native applications. Happy to help.
 - 📫 How to reach me: siuniakoua@gmail.com or [linkedin](https://www.linkedin.com/in/minskleo/)
-- 😄 Pronouns: he\him
